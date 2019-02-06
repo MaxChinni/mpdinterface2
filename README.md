@@ -12,10 +12,10 @@ You may encounter issues, so please have a look into the open tickets or file a 
 
 1. Clone the repo under a web root, i.e.
 
-    git clone https://github.com/MaxChinni/mpdinterface2 ~/public_html/mpdinterface2
+        git clone https://github.com/MaxChinni/mpdinterface2 ~/public_html/mpdinterface2
 2. Make those directory writable to the web server user, i.e.
 
-    chown www-data ~/public_html/mpdinterface2
+        chown www-data ~/public_html/mpdinterface2
 3. Visit the page via browser
 
 ### data/config.ini
